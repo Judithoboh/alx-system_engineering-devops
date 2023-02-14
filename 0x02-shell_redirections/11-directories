@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -print | wc -l
+find . meandepth 1 -type d | wc -l
